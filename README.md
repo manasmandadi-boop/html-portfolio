@@ -1,2 +1,2 @@
 # html-portfolio
-This is my first portfolio created on a website and this was done using HTML
+This is my first portfolio which was done using HTML and I truly enjoyed the process
